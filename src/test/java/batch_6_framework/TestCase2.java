@@ -9,7 +9,7 @@ import utilityLibrary.BasePage;
 public class TestCase2 extends BasePage {
 
 	public void testGit() {
-		
+		System.out.println("Selenium is fun");
 	}
 	
 	
