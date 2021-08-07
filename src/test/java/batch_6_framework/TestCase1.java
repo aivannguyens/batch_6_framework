@@ -9,7 +9,7 @@ import utilityLibrary.BasePage;
 public class TestCase1 extends BasePage {
 
 	public static void main(String[] args) {
-
+ System.out.println();
 		startTest();
 
 		home.clickOnLoginButton();
