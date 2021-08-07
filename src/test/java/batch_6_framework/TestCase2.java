@@ -9,6 +9,7 @@ import utilityLibrary.BasePage;
 public class TestCase2 extends BasePage {
 
 	public void testGit() {
+		String name = "AiVan";
 		System.out.println("Selenium is fun");
 	}
 	
